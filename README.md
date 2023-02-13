@@ -1,5 +1,7 @@
 # HFCG-CNN
 code for HFCF-CNN
+# High-frequency guided CNN for video compression artifacts reduction(2022 IEEE International Conference on Visual Communications and Image Processing (VCIP))
+[Paper Link](https://ieeexplore.ieee.org/abstract/document/10008814)
 ## Pre-requisites
 
 python3.6
